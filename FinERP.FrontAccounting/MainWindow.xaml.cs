@@ -22,6 +22,7 @@ namespace FinERP.FrontAccounting
     {
         private readonly NavigationServicee _navigationService;
 
+
         public MainWindow()
         {
             InitializeComponent();
